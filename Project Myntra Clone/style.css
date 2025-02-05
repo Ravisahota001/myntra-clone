@@ -1,0 +1,99 @@
+.navbar-brand{
+    height: 100% !important;
+    width: 300px !important;
+} 
+.bd-navbar {
+    padding: .75rem 0;
+    background-color: #7952b3 !important;
+}
+.logo_color{
+    color: #fff !important
+}
+.myntra_logo{
+    height: 50px;
+    width: auto;
+    
+     
+}
+.nav-item{
+    font-weight: 500;
+}
+.resize{
+    width: 400px;
+
+    margin-top: 20px;
+    margin-right: 100px !important;
+    margin-bottom: 20px;
+}
+sup{
+    color: #ff0000ac;
+}
+button{
+ 
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    
+}
+.sizing{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.sizing_div{
+margin-left: 20px !important;
+}
+
+.placeholder{
+    width: 32%;
+    height: 40px;
+    background-color: #f5f5f6;
+ margin: auto;
+ border-radius: 5x;
+ margin-left: 10px;
+}
+.logo{
+  width: 4%;
+
+}
+.logo a img{
+    width: 100%;
+}
+.Search-bar{
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    padding-right: 300px;
+    margin: auto;
+}
+.cart{
+    display: flex;
+}
+.cart a i{
+   
+}
+button{
+    margin-right: 100px;
+}
+.profile {
+    
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    margin-right: 50px;
+    justify-content: space-around;
+}
+.profile i{
+    color: rgb(81, 81, 81);
+    margin: 10px;
+}
+nav.navbar.navbar-expand-lg.bg-body-tertiary{
+    background-color: rgb(214, 209, 209) !important;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+
